@@ -1,4 +1,4 @@
-# Hola-Munodo
+# Hola-Mundo
 
 echo "# Hola-Mundo" >> README.md
 git init
